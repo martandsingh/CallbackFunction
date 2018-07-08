@@ -1,0 +1,16 @@
+CodeMaker - Code is easy
+_________________________
+
+CodeMaker helps you to learn latest open source technologies like Node Js, React Js, 
+MongoDB, Python, ExpressJs and many more. We also help our viewer with their code.
+
+Our viewer can also directly ping us to share their knowledge to us. We are currently
+on Facebook, Youtube only. But soon we are releasing our dedicated website from
+where you can download all the documents and ppt which i am using in my videos.
+
+You can also check out my GitHub profile to get all the sample code.
+
+Comment, Like & Share......
+Facebook : https://www.facebook.com/codemakerz
+YouTube : https://www.youtube.com/martand89
+GitHub : https://www.GitHub.com/MartandSingh
